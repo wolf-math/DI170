@@ -1,5 +1,7 @@
-def add_one(num):
-    return num + 1
+def add_one(func):
+    def wrapper(num):
+        return func(num) + 1
+    return wrapper
 
 @add_one
 def double(num):
