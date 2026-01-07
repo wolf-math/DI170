@@ -6,4 +6,4 @@ class Dog(Animal):
     def bark(self):
         print(f"{self.name} barked, WAF !")
 
-peanut = Dog()
+peanut = Dog('Peanut')

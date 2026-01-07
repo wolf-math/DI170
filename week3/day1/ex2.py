@@ -22,3 +22,6 @@ class BlockedDoor(Door):
 
     def open_door(self):
         return "Cannot open the door!"
+    
+    def close_door(self):
+        return "The door is permanantly closed!"
