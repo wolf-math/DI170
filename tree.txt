@@ -1,0 +1,129 @@
+.
+├── dc.py
+├── decorators.py
+├── jokes.db
+├── my_file.json
+├── secrets.txt
+├── shakes.db
+├── tree.txt
+├── week1
+│   ├── day1
+│   │   ├── casting.py
+│   │   ├── exercise1.py
+│   │   ├── exercise2.py
+│   │   ├── exercise3.py
+│   │   ├── exercise4.py
+│   │   ├── exercise5.py
+│   │   ├── exercise6.py
+│   │   ├── exercise7.py
+│   │   ├── if.py
+│   │   ├── input.py
+│   │   └── types.py
+│   ├── day3
+│   │   ├── exercise1.py
+│   │   ├── exercise2.py
+│   │   ├── exercise3.py
+│   │   ├── exercise4.py
+│   │   ├── ranges.py
+│   │   ├── sequences.py
+│   │   ├── sets.py
+│   │   └── while-loop.py
+│   └── day5
+│       ├── dictionaries.py
+│       ├── exercise1.py
+│       └── exercise2.py
+├── week2
+│   ├── day1
+│   │   ├── exercise1.py
+│   │   ├── exercise2.py
+│   │   └── functions.py
+│   └── day5
+│       ├── bank.py
+│       └── class.py
+├── week3
+│   ├── day1
+│   │   ├── age.py
+│   │   ├── comp.py
+│   │   ├── dog.py
+│   │   ├── dog2.py
+│   │   ├── ex1.py
+│   │   ├── ex2.py
+│   │   ├── ex3.py
+│   │   ├── ex4
+│   │   │   ├── __pycache__
+│   │   │   │   └── operators.cpython-314.pyc
+│   │   │   ├── calculator.py
+│   │   │   └── operators.py
+│   │   ├── intro.py
+│   │   └── pizza
+│   │       ├── __pycache__
+│   │       │   └── pizza.cpython-314.pyc
+│   │       ├── making_pizzas.py
+│   │       └── pizza.py
+│   ├── day3
+│   │   ├── circle.py
+│   │   ├── class_attr.py
+│   │   ├── classmethod.py
+│   │   ├── date.py
+│   │   ├── decorator.py
+│   │   ├── dunder.py
+│   │   ├── dunder2.py
+│   │   └── time.py
+│   └── day5
+│       ├── __pycache__
+│       │   └── json.cpython-314.pyc
+│       ├── chuck.py
+│       ├── jaysown.py
+│       ├── my_file.json
+│       ├── request_api.py
+│       ├── script.py
+│       ├── secrets.txt
+│       └── sw
+│           ├── nameslist.txt
+│           └── sw.py
+├── week4
+│   ├── day1
+│   │   └── anagram
+│   │       ├── anagram_checker.py
+│   │       ├── anagrams.py
+│   │       └── words.txt
+│   └── day3
+│       ├── anagram_class
+│       │   ├── __pycache__
+│       │   │   ├── anagram_checker.cpython-310.pyc
+│       │   │   └── anagram_checker.cpython-314.pyc
+│       │   ├── anagram_checker.py
+│       │   ├── anagrams.py
+│       │   └── words.txt
+│       ├── anagram_func
+│       │   ├── anagram_checker.py
+│       │   └── words.txt
+│       └── rps
+│           └── game.py
+├── week5
+│   ├── day3
+│   │   ├── day3.sql
+│   │   ├── joins.sql
+│   │   └── producers.sql
+│   └── day5
+├── week6
+│   ├── db.py
+│   ├── fruit.py
+│   └── jokes.py
+└── week7
+    ├── day3
+    │   └── ex1
+    │       ├── index.html
+    │       ├── script.js
+    │       ├── script2.js
+    │       ├── script3.js
+    │       ├── script4.js
+    │       └── script5.js
+    └── day5
+        └── functions
+            ├── blah.js
+            ├── ex1.js
+            ├── ex2.js
+            └── index.html
+
+35 directories, 92 files
