@@ -1,0 +1,24 @@
+<input type="button" onclick="insertRow()" value="Insert row">  
+
+<table id="sampleTable" border="1"> 
+<tr>
+    <td>Row 1 Cell 1</td> 
+    <td>Row 1 Cell 2</td>
+</tr> 
+<tr>
+    <td>Row 2 Cell 1</td> 
+    <td>Row 2 Cell 2</td>
+</tr> 
+</table>
+
+<script>
+  let count = 3
+  function insertRow() {
+    let table = document.getElementById("sampleTable")
+    let new_row = document.createElement('tr')
+    new_row.innerHTML = `<td>Row ${count} Cell 1</td>
+    <td>Row ${count} Cell 2</td>`
+    table.appendChild(new_row)
+    count++
+  }
+</script>
