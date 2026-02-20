@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <button id="btn">CLICK ME!!!</button>
+
+  <img src="https://robohash.org/aaronwolf">
+
+  <script>
+    const btn = document.getElementById("btn")
+    btn.textContent = "DON'T CLICK ME!!!"
+
+    function getAnswer() {
+      const answer = prompt("Are you sure?")
+      if (answer === "yes") {
+        let p = document.createElement("p")
+        p.innerText = "THE WORLD IS ENDING!"
+        document.body.appendChild(p)
+      }
+    }
+
+    btn.addEventListener("click", getAnswer)
+  </script>
+</body>
+</html>
